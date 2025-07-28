@@ -15,4 +15,4 @@ Made with love by [tori.toriko](https://github.com/tori-toriko) & [Claude](https
 
 ## License
 
-MIT
+[MIT](https://github.com/Tori0833/AP-Poly-Dark-Mode/blob/2c2999573fa7c411d718af12aa48ebede1170734/LICENSE)
