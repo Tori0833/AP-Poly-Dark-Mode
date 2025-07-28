@@ -1,7 +1,7 @@
 # AP Poly Dark Mode
 
-🎓 A Tampermonkey script that turns the AP Polytechnic student portal into dark mode.
-Just install it with Tampermonkey and enjoy less eye strain.
+🎓 A Tampermonkey script that turns the AP Polytechnic student portal into dark mode (to replace that dumbass default dark mode code by some stupid mf).
+Just install it with Tampermonkey and enjoy.
 
 ## Installation
 
