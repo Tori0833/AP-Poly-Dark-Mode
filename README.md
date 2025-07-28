@@ -6,7 +6,7 @@ Just install it with Tampermonkey and enjoy.
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Firefox)
-2. [Click here to install the script](https://raw.githubusercontent.com/Tori0833/AP-Poly-Dark-Mode/main/script/user-script.js)
+2. [Click here to install the script](https://greasyfork.org/en/scripts/543899-ap-poly-dark-mode)
 3. Done ✅
 
 ## Author
