@@ -11,7 +11,7 @@ Just install it with Tampermonkey and enjoy.
 
 ## Author
 
-Made with love by [tori.toriko](https://github.com/tori-toriko) & [Claude](https://claude.ai) 
+Made with love by [tori.toriko](https://discord.com/users/454165843710967808) & [Claude](https://claude.ai) 
 
 ## License
 
