@@ -11,7 +11,7 @@ Just install it with Tampermonkey and enjoy less eye strain.
 
 ## Author
 
-Made with love by [tori.toriko](https://github.com/tori-toriko)
+Made with love by [tori.toriko](https://github.com/tori-toriko) & [Claude](https://claude.ai) 
 
 ## License
 
